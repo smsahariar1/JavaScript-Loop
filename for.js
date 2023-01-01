@@ -9,3 +9,11 @@ The iteration statement where you can increase or decrease your counter.
 
 You can put all the three parts in a single line separated by semicolons.
 */
+
+for (let n = 1; n <= 10; n++) {
+  console.log("Looping: ", n);
+}
+
+for (let i = 10; i >= 1; i--) {
+  console.log("Another Looping: ", i);
+}
