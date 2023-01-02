@@ -7,11 +7,10 @@ The most basic loop in JavaScript is the while loop. The purpose of a while loop
 /*
 How I write while loop?
 Answer:
-First The loop initialization where we initialize our counter to a starting value. The initialization statement is executed before the loop begins. Example: let n = 1;
-
-Second we use while(condition){
-    what we want to execute
-    The iteration statement where you can increase or decrease your counter. Example: n++ / n--
+1. Loop Variable
+2. Condition inside while
+3. Loop Body
+4. Change the loop variable
 }
 */
 

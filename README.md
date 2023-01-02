@@ -1,29 +1,19 @@
 # JavaScript-Loop
 
-```bash
 1. what is loop -> loop.js
-```
 
-```bash
-2. Loop vs if else
-```
+2. Loop vs if else -> loop-vs-ifElse.js
 
-```bash
-1.
-```
+3. While Loop Basic -> while.js
 
-```bash
-1.
-```
+4. For Loop Basic -> for.js
 
-```bash
-1.
-```
+5. While Loop vs For Loop -> forLoop-vs-whileLoop.js
 
-```bash
-1.
-```
+6. Find the odd number between 1 to 10 by using while loop -> oddNumberWhile.js
 
-```bash
-1.
-```
+7. Find the odd number between 1 to 10 by using for loop -> oddNumberFor.js
+
+8. Find the even number between 1 to 10 by using while loop -> evenNumberWhile.js
+
+9. Find the even number between 1 to 10 by using for loop -> evenNumberFor.js
